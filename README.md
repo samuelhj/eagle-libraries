@@ -1,5 +1,6 @@
 # eagle-libraries
-A collection of eagle libraries that I've created throughout the years.
+A collection of eagle footprints that I've created throughout the years.
+
 This includes:
 GND symbol
 IRLZ44N d2pak footprint
